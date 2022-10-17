@@ -4,7 +4,7 @@
 - 中国人です、西安に住んでいます、西安交通大学の修士に在学中、初心者のプログラマー
 - 简体中文/English/日本語（勉強中）
 - My major is machnical engineering, mainly in Additive Manufacturing（AM） defect detection.
-- Contact:
+- Contact me:
 - Tel: +86 15762999091
 - E-mail: aaahqiu@icloud.com
 
